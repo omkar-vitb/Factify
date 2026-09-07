@@ -24,6 +24,15 @@ Factify/
 ├── Factify_Presentation.pptx  # Presentation deck
 └── README.md                  # Project documentation
 
+## 📊 Dataset Information
+This model was trained on the **Indian Fake News Dataset (IFND)**. Due to file size limits, the dataset is not included in this repository.
+
+To train the model yourself from scratch:
+1. Download the dataset from Kaggle: [IFND Dataset by Sonal Garg](https://www.kaggle.com/datasets/sonalgarg174/ifnd-dataset)
+2. Extract the downloaded archive.
+3. Place the `IFND.csv` file directly into the root folder of this project.
+4. Run `python train.py` to generate the new `.pkl` files.
+
 ⚙️ Installation & Setup
 git clone [https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git](https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git)
 cd Factify-Fake-News-Detection1. Clone the Repository:
