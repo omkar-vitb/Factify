@@ -33,6 +33,12 @@ To train the model yourself from scratch:
 3. Place the `IFND.csv` file directly into the root folder of this project.
 4. Run `python train.py` to generate the new `.pkl` files.
 
+To train the model yourself from scratch:
+1. Download the dataset from Kaggle: [IFND Dataset by Sonal Garg](https://www.kaggle.com/datasets/sonalgarg174/ifnd-dataset)
+2. Extract the downloaded archive.
+3. Place the `IFND.csv` file directly into the root folder of this project.
+4. Run `python train.py` to generate the new `.pkl` files.
+
 ⚙️ Installation & Setup
 git clone [https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git](https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git)
 cd Factify-Fake-News-Detection1. Clone the Repository:
