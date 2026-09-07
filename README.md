@@ -23,3 +23,8 @@ Factify/
 ├── tfidf_vectorizer.pkl       # Serialized TF-IDF vectorizer
 ├── Factify_Presentation.pptx  # Presentation deck
 └── README.md                  # Project documentation
+
+⚙️ Installation & Setup
+1. Clone the Repository:
+git clone [https://github.com/omkar-vitb/Factify-Fake-News-Detection.git](https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git)
+cd Factify-Fake-News-Detection
