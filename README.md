@@ -39,7 +39,7 @@ To train the model yourself from scratch:
 3. Place the `IFND.csv` file directly into the root folder of this project.
 4. Run `python train.py` to generate the new `.pkl` files.
 
-⚙️ Installation & Setup
+## ⚙️Installation & Setup
 git clone [https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git](https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git)
 cd Factify-Fake-News-Detection1. Clone the Repository:
 
@@ -58,13 +58,8 @@ python -m streamlit run app.py
 
 👥 Team Members (Group Contributions)
 Omkar Kumar (25BAI10893) - Project Leader & ML Pipeline Architecture
-
 Ayush Yadav (25BAI10946) - Dataset Cleaning & Label Normalization
-
 Vaidant Udawat (25BAI10266) - Feature Engineering & TF-IDF Optimization
-
 Samiksha Sinha (25BAI10556) - Streamlit UI Development & Caching
-
 Nyasha Kumari (20BAI10550) - Validation, Evaluation Metrics & Reports
-
 Anirudh Arya (20BAI11192) - Edge-case Testing & Presentation Documentation
