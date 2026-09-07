@@ -25,9 +25,31 @@ Factify/
 └── README.md                  # Project documentation
 
 ⚙️ Installation & Setup
-1. Clone the Repository:
-Bash
-git clone [https://github.com/omkar-vitb/Factify-Fake-News-Detection.git](https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git)
-cd Factify-Fake-News-Detection
+git clone [https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git](https://github.com/YOUR_USERNAME/Factify-Fake-News-Detection.git)
+cd Factify-Fake-News-Detection1. Clone the Repository:
 
-2.
+2.Create and Activate Virtual Environment:
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+3.Install Dependencies:
+pip install -r requirements.txt
+
+4.Launch the Web App:
+python -m streamlit run app.py
+
+👥 Team Members (Group Contributions)
+Omkar Kumar (25BAI10893) - Project Leader & ML Pipeline Architecture
+
+Ayush Yadav (25BAI10946) - Dataset Cleaning & Label Normalization
+
+Vaidant Udawat (25BAI10266) - Feature Engineering & TF-IDF Optimization
+
+Samiksha Sinha (25BAI10556) - Streamlit UI Development & Caching
+
+Nyasha Kumari (20BAI10550) - Validation, Evaluation Metrics & Reports
+
+Anirudh Arya (20BAI11192) - Edge-case Testing & Presentation Documentation
