@@ -61,5 +61,5 @@ Omkar Kumar (25BAI10893) - Project Leader & ML Pipeline Architecture
 Ayush Yadav (25BAI10946) - Dataset Cleaning & Label Normalization
 Vaidant Udawat (25BAI10266) - Feature Engineering & TF-IDF Optimization
 Samiksha Sinha (25BAI10556) - Streamlit UI Development & Caching
-Nyasha Kumari (20BAI10550) - Validation, Evaluation Metrics & Reports
-Anirudh Arya (20BAI11192) - Edge-case Testing & Presentation Documentation
+Nyasha Kumari (25BAI10550) - Validation, Evaluation Metrics & Reports
+Anirudh Arya (25BAI11192) - Edge-case Testing & Presentation Documentation
